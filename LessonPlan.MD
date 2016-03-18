@@ -24,6 +24,6 @@
     3. The keyword 'this'
     4. Methods
 
-5/6. Thesis
+5. Phaser Intro/Thesis (Two weeks)
     1. Phaser
     2. Game Clone
