@@ -1,3 +1,5 @@
+#### Week 1
+
 0. What is Code?
 
 1. Introduction to JavaScript/Computer Science
@@ -7,6 +9,8 @@
     4. prompts / alerts
     5. Mini-project with these concepts (CYOA)
 
+#### Week 2
+
 2. Code reuse
     1. Looping and iteration
     2. Functions
@@ -14,9 +18,13 @@
     4. Generate random numbers
     5. Mini-project with these concepts (Rock Paper Scissors?  Guess a number?)
 
+#### Week 3
+
 3. Advanced Control Flow
     1. Else if
     2. Logical operators (and, or, not)
+
+#### Week 4
 
 4. Data Structures
     1. Arrays 
@@ -24,6 +32,7 @@
     3. The keyword 'this'
     4. Methods
 
-5. Phaser Intro/Thesis (Two weeks)
+#### Week 5/6
+5. Introduction to Phaser/Final Project
     1. Phaser
     2. Game Clone
